@@ -1,3 +1,13 @@
+多地IP可用：
+广西贺州移动：39.135.43.68
+浙江丽水移动：39.134.185.236
+武汉移动：39.135.253.63
+北京移动：
+111.13.111.163
+211.136.65.140
+内蒙古呼和浩特移动：39.134.168.76
+南宁移动：39.135.33.43
+以下为黑龙江IP
 CCTV1 1080 8M,http://39.134.65.2/0000000000001001/1/index.m3u8?Contentid=5000000004000002226&livemode=1&stbId=3&channel-id=bestzb
 CCTV1 1080 4M,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=10
 CCTV1 720P,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&stbId=10
@@ -5,7 +15,6 @@ CCTV2,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Content
 CCTV3,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=4871512150101568971&livemode=1&stbId=10
 CCTV4,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=6529283685694841127&livemode=1&stbId=10
 CCTV5,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&stbId=10
-CCTV5+,http://39.134.65.2/0000000000001001/1/cctv5plus.m3u8?stbId=10&Contentid=7680777599813046442&livemode=1&channel-id=wasusyt
 CCTV6,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&stbId=10
 CCTV7,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=7319070262144570132&livemode=1&stbId=10
 CCTV8,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=8845820895945979833&livemode=1&stbId=10
