@@ -1,4 +1,5 @@
-各地IP见移动百视通IP版
+各地IP见 移动百视通IP&CDN版.txt
+将"gslbserv.itv.cmvideo.cn"换成 "[各地IP]/0000000000001001/1" 即可
 CCTV1,http://gslbserv.itv.cmvideo.cn/cctv1.m3u8?&stbId=10&Contentid=8813322615956633846&livemode=1&channel-id=wasusyt
 CCTV1,http://gslbserv.itv.cmvideo.cn/cctv1.m3u8?stbId=10&Contentid=5068253659616166748&livemode=1&channel-id=wasusyt
 CCTV2,http://gslbserv.itv.cmvideo.cn/cctv2.m3u8?stbId=10&Contentid=8878432746825677699&livemode=1&channel-id=wasusyt
