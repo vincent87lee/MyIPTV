@@ -58,7 +58,9 @@ CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&channel-id=ystenlive&
 西藏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=6603041244077933770&livemode=1&channel-id=ystenlive
 广东珠江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000004000011655&livemode=1&channel-id=ystenlive
 广东南方卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000002000011619&livemode=1&channel-id=ystenlive
-CETV 1,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000002000027253&livemode=1&channel-id=ystenlive
+CETV-1,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000002000027253&livemode=1&channel-id=ystenlive
+CETV-2,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000005000025334&livemode=1&channel-id=ystenlive
+CETV-4,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000005000025333&livemode=1&channel-id=ystenlive
 内蒙古卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000002000014080&livemode=1&channel-id=ystenlive
 山东教育卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=7341476808603780321&livemode=1&channel-id=ystenlive
 湖南电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&channel-id=hnbblive&Contentid=7884242846753128038&livemode=1
@@ -92,6 +94,15 @@ CETV 1,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=100000000200
 炫舞未来,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000001000000515&livemode=1&channel-id=ystenlive
 黑莓电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=8785669936177902664&livemode=1&channel-id=ystenlive
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=6497762188035533951&livemode=1&channel-id=ystenlive
+金鹰卡通,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=5201381050640253101&livemode=1&channel-id=ystenlive
+嘉嘉卡通,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000002000025964&livemode=1&channel-id=ystenlive
+哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=5101217554085087042&livemode=1&channel-id=ystenlive
+卡酷少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=7589856436881630561&livemode=1&channel-id=ystenlive
+优漫卡通,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=5574405527570022182&livemode=1&channel-id=ystenlive
+古装影剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=6859053933687922163&livemode=1&channel-id=ystenlive
+军旅影剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=7485075951068666323&livemode=1&channel-id=ystenlive
+军事评论,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=5822616274253344775&livemode=1&channel-id=ystenlive
+健康有约,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=7820874641606664941&livemode=1&channel-id=ystenlive
 影视剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=7681593242002292003&livemode=1&channel-id=ystenlive
 影视剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=5595720619887440144&livemode=1&channel-id=ystenlive
 纪实人文,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=10&Contentid=1000000001000010606&livemode=1&channel-id=ystenlive
