@@ -56,7 +56,7 @@ CBN每日影院(付费),http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=42008515
 CBN幸福剧场(付费),http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851599
 CBN幸福娱乐(付费),http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851601
 CCTV1综合高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851355
-CCTV2财*高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851579
+CCTV2财经高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851579
 CCTV3综艺高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851552
 CCTV4中文国际高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851580
 CCTV5体育高清,http://qz.yuniptv.cn:9090/itv/pyitv/?tid=hls&id=4200851444
