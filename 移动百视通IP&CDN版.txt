@@ -18,6 +18,8 @@
 浙江温州移动：39.134.182.236
 陕西延安移动：39.134.19.57
 以下为黑龙江IP
+39.135.135.70
+
 CCTV1 1080 8M,http://39.134.65.2/0000000000001001/1/index.m3u8?Contentid=5000000004000002226&livemode=1&stbId=3&channel-id=bestzb
 CCTV1 1080 4M,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=10
 CCTV1 720P,http://39.134.65.2/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&stbId=10
