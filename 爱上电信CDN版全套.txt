@@ -10,11 +10,12 @@ CCTV5+赛事HD,http://live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlis
 CCTV-6电影HD,http://live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?CONTENTID=00000110240247_1	
 CCTV7军事农业HD,http://live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?CONTENTID=00000110240248_1	
 CCTV8电视剧HD,http://live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?CONTENTID=00000110240249_1
-CCTV9记录HD(4M)http://live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?CONTENTID=00000110240250_1
+CCTV9记录HD(3M)http://live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?CONTENTID=00000110240250_1
 CCTV9记录HD(8M),http://live.aishang.ctlcdn.com/00000110240478_1/encoder/0/playlist.m3u8?CONTENTID=00000110240478_1	
 CCTV10科教HD,http://live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=00000110240251_1
 CCTV11戏曲HD,http://live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?CONTENTID=00000110240328_1	
 CCTV12社会与法HD,http://live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?CONTENTID=00000110240252_1
+CCTV13新闻HD,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1
 CCTV14少儿HD,http://live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?CONTENTID=00000110240253_1
 CCTV15音乐HD,http://live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?CONTENTID=00000110240329_1
 CCTV17农业农村HD,http://live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240326_1
@@ -42,6 +43,7 @@ CETV4,http://live.aishang.ctlcdn.com/00000110245252_1/encoder/0/playlist.m3u8?CO
 体育赛事HD,http://live.aishang.ctlcdn.com/00000110240590_1/encoder/0/playlist.m3u8?CONTENTID=00000110240590_1
 熊猫频道HD,http://live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8?CONTENTID=00000110240263_1
 爱上4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1
+CCTV4K,http://live.aishang.ctlcdn.com/00000110240505_1/encoder/0/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV-1,http://live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8?CONTENTID=00000110240001_1
 CCTV-2,http://live.aishang.ctlcdn.com/00000110240002_1/encoder/0/playlist.m3u8?CONTENTID=00000110240002_1
 CCTV-3,http://live.aishang.ctlcdn.com/00000110240259_1/encoder/0/playlist.m3u8?CONTENTID=00000110240259_1
