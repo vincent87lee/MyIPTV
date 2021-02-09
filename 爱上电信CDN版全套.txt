@@ -42,6 +42,7 @@ CETV4,http://live.aishang.ctlcdn.com/00000110245252_1/encoder/0/playlist.m3u8?CO
 金鹰纪实HD,http://live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1
 体育赛事HD,http://live.aishang.ctlcdn.com/00000110240590_1/encoder/0/playlist.m3u8?CONTENTID=00000110240590_1
 熊猫频道HD,http://live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8?CONTENTID=00000110240263_1
+测试频道HD,http://live.aishang.ctlcdn.com/00000110240330_1/encoder/0/playlist.m3u8?CONTENTID=00000110240330_1
 爱上4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1
 CCTV4K,http://live.aishang.ctlcdn.com/00000110240505_1/encoder/0/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV-1,http://live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8?CONTENTID=00000110240001_1
@@ -61,7 +62,6 @@ CCTVNEWS,http://live.aishang.ctlcdn.com/00000110240021_1/encoder/0/playlist.m3u8
 CCTV-14,http://live.aishang.ctlcdn.com/00000110240085_1/encoder/0/playlist.m3u8?CONTENTID=00000110240085_1
 CCTV-15,http://live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8?CONTENTID=00000110240086_1
 CCTV-17,http://live.aishang.ctlcdn.com/00000110240327_1/encoder/0/playlist.m3u8?CONTENTID=00000110240327_1
-IPTV5+1080P,http://live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?CONTENTID=00000110240281_1
 IPTV6+,http://live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=00000110240007_1
 IPTV热播剧场,http://live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8?CONTENTID=00000110240089_1
 IPTV经典电影,http://live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8?CONTENTID=00000110240090_1
@@ -74,7 +74,7 @@ IPTV法治,http://live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3
 IPTV8+,http://live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?CONTENTID=00000110240125_1
 三沙卫视,http://live.aishang.ctlcdn.com/00000110240589_1/encoder/0/playlist.m3u8?CONTENTID=00000110240589_1
 深圳卫视,http://live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8?CONTENTID=00000110240004_1
-相声小品,http://live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8?CONTENTID=00000110240006_1
+IPTV相声小品,http://live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8?CONTENTID=00000110240006_1
 湖南卫视,http://live.aishang.ctlcdn.com/00000110240008_1/encoder/0/playlist.m3u8?CONTENTID=00000110240008_1
 东方卫视,http://live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8?CONTENTID=00000110240011_1
 重庆卫视,http://live.aishang.ctlcdn.com/00000110240012_1/encoder/0/playlist.m3u8?CONTENTID=00000110240012_1
@@ -108,7 +108,7 @@ IPTV8+,http://live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?C
 西藏卫视,http://live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8?CONTENTID=00000110240076_1
 新疆卫视,http://live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8?CONTENTID=00000110240079_1
 云南卫视,http://live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8?CONTENTID=00000110240082_1
-谍战剧场,http://live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8?CONTENTID=00000110240003_1
+IPTV谍战剧场,http://live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8?CONTENTID=00000110240003_1
 嘉佳卡通,http://live.aishang.ctlcdn.com/00000110240087_1/encoder/0/playlist.m3u8?CONTENTID=00000110240087_1
 爱生活,http://live.aishang.ctlcdn.com/00000110245519_1/encoder/0/playlist.m3u8?CONTENTID=00000110245519_1
 财富天下,http://live.aishang.ctlcdn.com/00000110240148_1/encoder/0/playlist.m3u8?CONTENTID=00000110240148_1
