@@ -11,7 +11,9 @@ CCTV-8高清,rtmp://ivi.bupt.edu.cn/livetv/cctv8hd
 CCTV-9高清,rtmp://ivi.bupt.edu.cn/livetv/cctv9hd
 CCTV-10高清,rtmp://ivi.bupt.edu.cn/livetv/cctv10hd
 CCTV-12高清,rtmp://ivi.bupt.edu.cn/livetv/cctv12hd
+CCTV-13高清,rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
 CCTV-14高清,rtmp://ivi.bupt.edu.cn/livetv/cctv14hd
+CCTV-14高清,rtmp://ivi.bupt.edu.cn/livetv/cctv17hd
 CETV-1高清,rtmp://ivi.bupt.edu.cn/livetv/cetv1hd
 CGTN高清,rtmp://ivi.bupt.edu.cn/livetv/cgtnhd
 CGTN-纪录高清,rtmp://ivi.bupt.edu.cn/livetv/cgtndochd
@@ -149,7 +151,9 @@ CCTV-8高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv8hd
 CCTV-9高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv9hd
 CCTV-10高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv10hd
 CCTV-12高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv12hd
+CCTV-13高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
 CCTV-14高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv14hd
+CCTV-17高清,rtmp://ivi6.bupt.edu.cn/livetv/cctv17hd
 CETV-1高清,rtmp://ivi6.bupt.edu.cn/livetv/cetv1hd
 CGTN高清,rtmp://ivi6.bupt.edu.cn/livetv/cgtnhd
 CGTN-纪录高清,rtmp://ivi6.bupt.edu.cn/livetv/cgtndochd
