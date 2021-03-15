@@ -64,9 +64,11 @@ CCTV-17农业农村高清,http://hdtv.haust.edu.cn/hls/hls185a17.m3u8
 CCTV世界地理高清,http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 CCTV第一剧场高清,http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
 CCTV风云足球高清,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8
+CCTV风云足球高清,http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 CCTV风云剧场高清,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
 CCTV风云音乐高清,http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
 CCTV怀旧剧场高清,http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
+CCTV怀旧剧场高清,http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
 CCTV兵器科技高清,http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
 CCTV女性时尚高清,http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
 CCTV电视指南高清,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8
