@@ -66,3 +66,5 @@
 宣恩综合,http://xuanen.live.cjyun.org/video/s10097-xezh/index.m3u8
 公安综合,http://gongan.live.tempsource.cjyun.org/videotmp/10088-gatv1.m3u8
 公安生活,http://gongan.live.tempsource.cjyun.org/videotmp/s10088-gatv3.m3u8
+丹江口新闻 3.5M1080,http://danjiangkou.live.tempsource.cjyun.org/videotmp/s10081-djktv1.m3u8
+丹江口生活 3.5M1080,https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
