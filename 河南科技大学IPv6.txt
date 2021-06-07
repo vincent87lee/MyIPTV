@@ -195,7 +195,6 @@ Max极速汽车高清,http://hdtv.haust.edu.cn/hls/hls184a94.m3u8
 生活时尚高清,http://hdtv.haust.edu.cn/hls/hls184a91.m3u8
 法治天地高清,http://hdtv.haust.edu.cn/hls/hls184a89.m3u8
 欢笑剧场高清,http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
-IPTV5+高清,http://hdtv.haust.edu.cn/hls/hls184.m3u8
 辽宁交通广播高清,http://hdtv.haust.edu.cn/hls/hls185a641.m3u8
 辽宁经典音乐广播高清,http://hdtv.haust.edu.cn/hls/hls185a642.m3u8
 CCTV-1综合,http://hdtv.haust.edu.cn/hls/cctv1.m3u8
@@ -370,7 +369,6 @@ Star Sports,http://hdtv.haust.edu.cn/hls/starsports.m3u8
 优漫卡通,http://hdtv.haust.edu.cn/hls/hls159.m3u8
 优漫卡通,http://hdtv.haust.edu.cn/hls/hls184a505.m3u8
 新动漫,http://hdtv.haust.edu.cn/hls/hls64.m3u8
-IPTV少儿动画,http://hdtv.haust.edu.cn/hls/hls104.m3u8
 哈哈炫动,http://hdtv.haust.edu.cn/hls/hls103.m3u8
 哈哈炫动,http://hdtv.haust.edu.cn/hls/hls184a427.m3u8
 GTV网络棋牌,http://hdtv.haust.edu.cn/hls/hls65.m3u8
@@ -384,10 +382,8 @@ GTV游戏竞技,http://hdtv.haust.edu.cn/hls/hls112.m3u8
 家庭影院,http://hdtv.haust.edu.cn/hls/hls39.m3u8
 怀旧电影,http://hdtv.haust.edu.cn/hls/hls48.m3u8
 古装剧场,http://hdtv.haust.edu.cn/hls/hls54.m3u8
-喜剧影院,http://hdtv.haust.edu.cn/hls/hls6.m3u8
 译制片,http://hdtv.haust.edu.cn/hls/hls31.m3u8
 精选,http://hdtv.haust.edu.cn/hls/hls102.m3u8
-星影,http://hdtv.haust.edu.cn/hls/hls59.m3u8
 纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 家庭理*,http://hdtv.haust.edu.cn/hls/hls19.m3u8
 家庭理*,http://hdtv.haust.edu.cn/hls/hls15.m3u8
@@ -400,7 +396,6 @@ GTV游戏竞技,http://hdtv.haust.edu.cn/hls/hls112.m3u8
 吉视影视,http://hdtv.haust.edu.cn/hls/jlu_jsys.m3u8
 吉视生活,http://hdtv.haust.edu.cn/hls/jlu_jssh.m3u8
 长春市民生活,http://hdtv.haust.edu.cn/hls/jlu_ccsm.m3u8
-长春汽车,http://hdtv.haust.edu.cn/hls/jlu_ccqc.m3u8
 长春经济,http://hdtv.haust.edu.cn/hls/jlu_ccjj.m3u8
 长春娱乐,http://hdtv.haust.edu.cn/hls/jlu_ccyl.m3u8
 文物宝库,http://hdtv.haust.edu.cn/hls/hls22.m3u8
@@ -409,4 +404,3 @@ GTV游戏竞技,http://hdtv.haust.edu.cn/hls/hls112.m3u8
 环球奇观,http://hdtv.haust.edu.cn/hls/hls62.m3u8
 国学频道,http://hdtv.haust.edu.cn/hls/hls100.m3u8
 央广购物,http://hdtv.haust.edu.cn/hls/hls185a582.m3u8
-IPTV收视指南,http://hdtv.haust.edu.cn/hls/hls105.m3u8
