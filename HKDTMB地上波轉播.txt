@@ -2,6 +2,7 @@
 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台 (簡/英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
 J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
